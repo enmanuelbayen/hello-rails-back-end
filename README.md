@@ -104,7 +104,7 @@ Run command:
 
 ```sh
   cd my-project
-  npm install
+  bundle install
 ```
 
 ### Usage
