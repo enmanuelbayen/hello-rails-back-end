@@ -6,3 +6,11 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+
+
+Greeting.create(message: 'Hello, World!');
+Greeting.create(message: 'Hello, World! test 2');
+Greeting.create(message: 'Hello, World! test 3');
+Greeting.create(message: 'Hello, World! test 4');
+Greeting.create(message: 'Hello, World! test 5');
